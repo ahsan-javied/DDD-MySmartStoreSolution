@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Infrastructure\\Store.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Domain\\Store.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Domain\\Store.Domain.csproj",
+        "projectName": "Store.Domain",
+        "projectPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Domain\\Store.Domain.csproj",
+        "packagesPath": "C:\\Users\\scorpbit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\scorpbit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Helper\\Store.Helper.csproj": {
+                "projectPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Helper\\Store.Helper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Helper\\Store.Helper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Helper\\Store.Helper.csproj",
+        "projectName": "Store.Helper",
+        "projectPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Helper\\Store.Helper.csproj",
+        "packagesPath": "C:\\Users\\scorpbit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\scorpbit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Infrastructure\\Store.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Infrastructure\\Store.Infrastructure.csproj",
+        "projectName": "Store.Infrastructure",
+        "projectPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Infrastructure\\Store.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\scorpbit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\scorpbit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Domain\\Store.Domain.csproj": {
+                "projectPath": "C:\\Users\\scorpbit\\OneDrive\\Personal\\Help\\DDD-MySmartStoreSolution\\MySmartStoreSolution\\Store.Domain\\Store.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
