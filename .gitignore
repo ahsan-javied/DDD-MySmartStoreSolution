@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MySmartStoreSolution/.vs
+/MySmartStoreSolution/Store.API/bin
+/MySmartStoreSolution/Store.API/obj
+/MySmartStoreSolution/Store.Application/bin
+/MySmartStoreSolution/Store.Application/obj
+/MySmartStoreSolution/Store.Domain/bin
+/MySmartStoreSolution/Store.Domain/obj
+/MySmartStoreSolution/Store.Helper/bin
+/MySmartStoreSolution/Store.Helper/obj
+/MySmartStoreSolution/Store.Infrastructure/bin
+/MySmartStoreSolution/Store.Infrastructure/obj
